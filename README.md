@@ -2,7 +2,7 @@
 Final project tutorial for CMSC 320 Introduction To Data Science  
 https://tinyurl.com/UMD-Budget-Analysis
 
-The main notebook with analysis: 
+The main notebook with analysis:   
 https://adharsh.github.io/Main.html       
 
 The five other notebooks for the creation of the dataset:
